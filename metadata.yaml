@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1842
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Scott_Bailey
 description: Tuck- me- in Tales of Daddy Longlegs copies of the originals.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21426#The-Tale-of-Daddy-LonglegsTuck-Me-In-Tales
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2007-05-13'
 gutenberg_type: Text
